@@ -1,0 +1,121 @@
+student_ids,names,ages,genders,grades,class,Garbage,Phone Number
+6,Alice,19,Female,11,Twelfth,?,(345) 678-9012
+7,David,20,Female,,Tenth,?,234-567-8901
+6,Bob,17,Male,16,Tenth,N/A,4567890123
+6,Alice,20,Male,,Twelfth,N/A,N/A
+2,Alice,17,Male,11,Tenth,?,567-890-1234
+8,Bob,17,Male,12,Tenth,N/A,
+9,Emily,18,Male,10,Twelfth,Unknown,4567890123
+3,Charlie,18,Male,12,Tenth,?,(345) 678-9012
+6,Alice,18,Female,12,Tenth,,567-890-1234
+9,Alice,20,Female,16,Twelfth,Unknown,567-890-1234
+5,Emily,19,Female,11,Twelfth,?,567-890-1234
+8,Charlie,17,Female,10,Twelfth,N/A,123-456-7890
+5,Alice,20,Male,17,Tenth,?,N/A
+3,Charlie,19,Female,12,Twelfth,,567-890-1234
+1,Bob,19,Female,19,Tenth,Unknown,(345) 678-9012
+3,Alice,18,Female,11,Twelfth,N/A,567-890-1234
+7,Bob,19,Male,17,Tenth,Unknown,N/A
+4,Emily,17,Male,17,Tenth,Unknown,567-890-1234
+6,Charlie,18,Male,11,Twelfth,?,123-456-7890
+8,Emily,18,Male,10,Tenth,N/A,N/A
+4,Emily,17,Female,12,Twelfth,N/A,
+8,Alice,18,Male,12,Tenth,,(345) 678-9012
+10,Charlie,20,Female,11,Tenth,Unknown,N/A
+5,Bob,20,Male,12,Twelfth,,4567890123
+5,Alice,17,Female,11,Twelfth,Unknown,N/A
+1,Alice,20,Female,17,Twelfth,Unknown,
+10,Bob,17,Male,12,Twelfth,,123-456-7890
+7,David,19,Female,10,Tenth,N/A,
+8,Alice,17,Female,17,Tenth,,234-567-8901
+10,Alice,19,Female,12,Tenth,N/A,(345) 678-9012
+2,Charlie,20,Male,19,Tenth,N/A,234-567-8901
+3,David,20,Male,10,Twelfth,,4567890123
+4,David,17,Female,12,Twelfth,Unknown,
+9,Charlie,20,Male,11,Twelfth,?,567-890-1234
+3,David,18,Female,11,Twelfth,?,(345) 678-9012
+1,Charlie,19,Male,12,Twelfth,,4567890123
+10,David,19,Female,11,Tenth,,4567890123
+1,Emily,17,Male,17,Tenth,Unknown,567-890-1234
+4,Emily,17,Female,11,Twelfth,?,
+1,Emily,19,Male,16,Twelfth,Unknown,
+3,Emily,19,Female,17,Twelfth,N/A,N/A
+5,Charlie,18,Female,12,Twelfth,N/A,4567890123
+6,Charlie,20,Male,11,Twelfth,?,123-456-7890
+10,Charlie,20,Female,11,Twelfth,,234-567-8901
+9,Bob,18,Female,10,Twelfth,N/A,234-567-8901
+5,Alice,18,Male,,Twelfth,Unknown,123-456-7890
+8,Emily,18,Female,12,Tenth,Unknown,
+7,Bob,17,Female,10,Tenth,Unknown,N/A
+1,Alice,17,Male,,Tenth,Unknown,(345) 678-9012
+8,David,20,Female,12,Twelfth,N/A,123-456-7890
+2,Bob,18,Male,11,Tenth,N/A,N/A
+9,Alice,17,Male,10,Twelfth,N/A,
+10,Emily,17,Female,10,Tenth,?,123-456-7890
+4,Charlie,18,Female,12,Twelfth,?,N/A
+3,David,18,Female,19,Tenth,N/A,
+1,Alice,17,Male,11,Tenth,Unknown,234-567-8901
+7,David,19,Female,11,Tenth,?,
+2,Alice,20,Male,11,Tenth,,(345) 678-9012
+8,Emily,20,Female,12,Tenth,,567-890-1234
+10,Charlie,18,Male,12,Twelfth,Unknown,567-890-1234
+1,Bob,20,Male,11,Tenth,Unknown,567-890-1234
+1,David,17,Female,17,Twelfth,,N/A
+4,David,18,Female,,Twelfth,,N/A
+1,Alice,18,Male,12,Twelfth,,123-456-7890
+2,David,20,Male,11,Tenth,?,4567890123
+4,Alice,17,Female,12,Tenth,,N/A
+5,Charlie,17,Female,19,Tenth,,123-456-7890
+4,David,19,Female,10,Tenth,Unknown,567-890-1234
+1,David,19,Female,11,Twelfth,,567-890-1234
+5,David,20,Female,19,Twelfth,N/A,567-890-1234
+1,Emily,19,Male,10,Twelfth,,N/A
+6,Alice,20,Female,,Tenth,?,4567890123
+5,Emily,19,Female,17,Tenth,Unknown,234-567-8901
+5,Emily,20,Female,12,Tenth,Unknown,234-567-8901
+5,David,20,Male,17,Tenth,,(345) 678-9012
+4,Bob,19,Male,12,Twelfth,N/A,123-456-7890
+6,Alice,20,Male,11,Twelfth,?,(345) 678-9012
+8,Alice,17,Male,12,Tenth,Unknown,
+3,Emily,18,Female,11,Twelfth,,567-890-1234
+5,David,17,Female,12,Tenth,,
+1,Emily,18,Male,11,Twelfth,,N/A
+4,Bob,18,Male,19,Twelfth,N/A,
+10,David,20,Female,11,Twelfth,,567-890-1234
+9,Bob,17,Female,12,Tenth,N/A,N/A
+6,Emily,19,Female,12,Twelfth,Unknown,123-456-7890
+4,Alice,20,Male,19,Twelfth,N/A,123-456-7890
+7,David,17,Male,17,Tenth,,567-890-1234
+10,Emily,17,Female,17,Twelfth,,
+2,Alice,20,Male,11,Twelfth,Unknown,(345) 678-9012
+9,Charlie,18,Female,17,Twelfth,?,123-456-7890
+8,Emily,20,Male,,Tenth,?,4567890123
+6,Emily,18,Male,10,Twelfth,N/A,123-456-7890
+5,David,18,Male,11,Tenth,,567-890-1234
+9,Bob,20,Male,11,Tenth,Unknown,567-890-1234
+3,Bob,18,Male,12,Twelfth,?,(345) 678-9012
+9,Bob,18,Female,10,Twelfth,,567-890-1234
+2,Charlie,18,Female,11,Tenth,Unknown,4567890123
+4,Charlie,17,Female,19,Twelfth,N/A,234-567-8901
+4,Alice,18,Female,10,Twelfth,,234-567-8901
+2,David,19,Female,12,Twelfth,,123-456-7890
+2,Bob,17,Male,17,Twelfth,,N/A
+7,Emily,20,Male,17,Tenth,N/A,N/A
+10,Emily,19,Female,11,Tenth,N/A,567-890-1234
+4,David,20,Female,12,Twelfth,,123-456-7890
+3,Bob,18,Female,11,Tenth,Unknown,N/A
+4,Emily,18,Female,16,Twelfth,?,234-567-8901
+4,David,18,Female,,Twelfth,,4567890123
+4,Alice,17,Male,16,Tenth,?,4567890123
+5,Emily,19,Female,12,Tenth,Unknown,
+2,Emily,19,Male,11,Tenth,?,234-567-8901
+8,Emily,18,Female,16,Twelfth,Unknown,234-567-8901
+5,Emily,18,Female,10,Twelfth,Unknown,N/A
+2,Alice,19,Male,10,Twelfth,?,234-567-8901
+4,David,17,Male,16,Twelfth,,123-456-7890
+9,Emily,20,Female,11,Tenth,,N/A
+9,Emily,20,Male,19,Tenth,?,N/A
+9,Alice,19,Female,17,Twelfth,Unknown,567-890-1234
+5,Bob,19,Male,11,Twelfth,,123-456-7890
+7,Emily,17,Female,11,Twelfth,?,
+2,Bob,19,Female,11,Twelfth,Unknown,4567890123
